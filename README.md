@@ -7,6 +7,11 @@
 
 - 📫 How to reach me **abhisheknewaskar@icloud.com**
 
+<div align="center">
+  
+  ![snake gif](https://github.com/roggerrabhii24/roggerrabhii24/blob/output/github-snake-dark.svg)
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
